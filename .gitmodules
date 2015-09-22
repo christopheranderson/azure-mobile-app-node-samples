@@ -1,0 +1,3 @@
+[submodule "azure-mobile-node-quickstart"]
+	path = azure-mobile-node-quickstart
+	url = https://github.com/christopheranderson/azure-mobile-node-quickstart.git
