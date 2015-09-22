@@ -1,6 +1,12 @@
 # Demos for Azure Mobile Apps Node SDK
 
-This is a repository of demos for [Azure Mobile Apps Node SDK](https://github.com/Azure/azure-mobile-apps-node). These demos aren't officially supported by the Azure App Service team or Microsoft; their purpose is for demos at conferences. 
+This is a repository of demos for [Azure Mobile Apps Node SDK](https://github.com/Azure/azure-mobile-apps-node). These demos aren't officially supported by the Azure App Service team or Microsoft; their purpose is for demos at conferences.
+
+## Demos
+
+ - Quickstart
+  - [https://github.com/christopheranderson/azure-mobile-node-quickstart](https://github.com/christopheranderson/azure-mobile-node-quickstart)
+  - Basic getting started demo. Many other demos start with copies of this demo.
 
 ## Issues
 
